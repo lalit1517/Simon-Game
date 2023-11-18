@@ -16,6 +16,6 @@ Simon-Game is an interactive web application that allows users to play the class
 
 ## Instructions to run the project
 
-# Open the index.html file in your preferred web browser.
+- **Open the index.html file in your preferred web browser.** 
 
-# Follow the on-screen instructions to start playing the Simon game.
+- **Follow the on-screen instructions to start playing the Simon game.** 
