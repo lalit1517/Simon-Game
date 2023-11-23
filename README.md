@@ -1,3 +1,5 @@
+Catch the live working project at https://simon-game-bylalit.netlify.app/
+
 # Simon-Game
 
 Simon-Game is an interactive web application that allows users to play the classic Simon game. Test your memory and concentration by following the pattern of colors presented by the game. The project is built using HTML, CSS, and JavaScript.
